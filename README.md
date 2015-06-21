@@ -1,12 +1,14 @@
 # E-Hentai gallery downloader
 
 You can automatically download the images of an E-Hentai gallery.
-This program requires the first image page of the gallery(i.e. the first page of online reading)
+This program requires the URL of the first image page of the gallery(i.e. the first page of online reading)
 
 Usage: python zcralwer.py url
 
 Dependencies: wget, 7z, python2.7*
-Required Python libraies(python2.7*): beautifulsoup4, re // you can download these things with pip. (e.g. pip install beautifulsoup4)
+
+Required Python libraies(python2.7*): beautifulsoup4, re
+   -- you can download these things with pip. (e.g. pip install beautifulsoup4)
 
 
 Summary:
