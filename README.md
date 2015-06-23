@@ -14,7 +14,7 @@ Required Python libraies(python2.7*): beautifulsoup4, re
 Summary:
 
 1. Collects the URLs of the target gallery.
-2. Downloads the images with wget and fetched urls.
+2. Downloads the images with fetched urls using wget.
 3. Archives the images with the title of the gallery.
 4. Erases temporal folder.
 
